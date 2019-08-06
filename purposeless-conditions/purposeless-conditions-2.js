@@ -1,6 +1,5 @@
-/* Example # 2 */
 function isNotBoolean(test) {
-  var retVal = false; //or any other initialization
+  var retVal = false;
   if (typeof test === "boolean") {
     retVal = false;
   } else {

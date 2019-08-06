@@ -1,4 +1,3 @@
-/* Example 1*/
 function haircut(persons) {
   var that = this;
 

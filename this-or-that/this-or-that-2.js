@@ -1,4 +1,3 @@
-/* Example 1*/
 function haircut(persons) {
   persons.forEach(
     function(person) {

@@ -1,4 +1,3 @@
-/* Example */
 function stringAdd(numString) {
   var val = parseInt(numString);
   if (numString === NaN) {

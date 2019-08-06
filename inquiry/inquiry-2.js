@@ -1,4 +1,3 @@
-// Event Delegation before DOM Ready
 $(document).on("mouseenter mouseleave", ".Component", function(e) {
   $(this).toggleClass("Component--over", e.type === "mouseenter");
 });
